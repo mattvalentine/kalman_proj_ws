@@ -1,0 +1,5 @@
+<launch>
+
+<node pkg="rqt_multiplot" type="rqt_multiplot" name="ekf_plot" args="--multiplot-config /home/robond/workspace/kalman_proj_ws/src/main/rqt_multiplot.xml">
+</node>
+</launch>

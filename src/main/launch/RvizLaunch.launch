@@ -1,0 +1,5 @@
+<launch>
+
+<node pkg="rviz" type="rviz" name="ekf_rviz" args="-d /home/robond/workspace/kalman_proj_ws/src/EKFLab.rviz">
+</node>
+</launch>
